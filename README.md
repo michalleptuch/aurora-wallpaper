@@ -4,7 +4,8 @@ Welcome to the official issue-only repo for Aurora. Aurora is a Desktop Bridge a
 
 **Important!** This application uses parts of source code from prerelease version of Windows code-named Longhorn owned by Microsoft Corporation. Source code has been ported to UWP.
 
-Microsoft Store: https://www.microsoft.com/store/apps/9P3CBGSKBRQP
+<a href="https://www.microsoft.com/store/apps/9P3CBGSKBRQP">
+<img src="https://store-images.s-microsoft.com/image/apps.15270.14540617761808034.5883fc92-133b-492c-82de-06d890307680.bc7ce3a9-c56a-4195-bf00-d84ee8b09a2b" width=80/><img src="https://getbadgecdn.azureedge.net/images/English_L.png" height=80 /></a>
 
 ![](images/AuroraHero.png)
 
